@@ -1,0 +1,26 @@
+
+
+#neonText span{
+	width:700px;
+	height:150px;
+	position:absolute;
+	top:-12px;
+	
+	background:url('text.jpg') no-repeat left top;
+}
+
+span#version1{
+	z-index:100;
+}
+
+span#version2{
+	background-position:left bottom;
+	z-index:99;
+}
+
+
+#neonText{
+	
+	text-indent:-9999px;
+}
+

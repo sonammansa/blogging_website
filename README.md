@@ -1,1 +1,8 @@
 # blogging_website
+
+Each different blogging site has its own features. However, major of them lacks in being user friendly. A user can never enjoy blogging with delicious content since most of them does not include all the features (pictures, videos, articles, collages and google street view)  like our perfect blogging site ‘PUTTER’ does. Since, putter includes all the features that you can think of right now, so it provides the perfect platform to make something unique everytime. 
+Putter is a perfect platform to personalize features according to your needs. All the features can be modified and changed as per user requirements. Putter has provided user all the features with the option to personalize them in a very lame and convenient way.
+Not only blogging, putter also serves the concept of being in the world of networking site by visiting other user’s blog. User’s creative blogs can be visited by the search option provided at the homepage. Further, you can search different features like photos, videos etc present in the different putters of the user.
+It is just a matter of creating an account to start puttering. People can enjoy this site by creating and personalizing photos, videos, articles and collage or by exploring the world’s streets using google’s terrific app, “google street view”.  
+The forum of the site helps user with all their doubts and queries. Post your questions at the help forum related to surfing the site and get the instant replies.
+The feature i.e. photos let you add full HD and full size images crawled from the popular website. The feature i.e. videos also has an option to add the videos at your respective putter from the browse content of youtube so that the user can be familiar with the latest and most popular videos.

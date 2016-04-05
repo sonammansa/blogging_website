@@ -1,0 +1,6 @@
+@font-face {
+  font-family: 'arial';
+  font-style: normal;
+  font-weight: 40;
+  src: local('arial'), local('arial'), url(1.woff) format('woff');
+}

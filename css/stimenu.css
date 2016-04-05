@@ -1,0 +1,86 @@
+/*Sliding Text and Icon Menu Style*/
+.sti-menu{
+	left:730px;
+        top:60px;
+	position:absolute;
+	margin:40px auto 0 auto;
+-moz-box-shadow: 22px  15px  16px  #000000;-webkit-box-shadow: 22px  15px  5px  #000000;box-shadow: 22px  15px  16px  #000000;
+}
+.sti-menu li{
+	float:left;
+	width:270px;
+	height:370px;
+	margin:1px;
+}
+.sti-menu li a{
+	display:block;
+	overflow:hidden;
+	background:#3e779d;
+	text-align:center;
+	height:100%;
+	width:100%;
+	position:relative;
+	
+}
+
+.sti-menu li a h2{
+	color:black;
+	font-family:Baskerville; 
+	font-size:18px;
+	font-weight:bold;
+	position:absolute;
+	padding:30px;
+	
+	top:10px;
+	text-shadow:none;
+
+}
+
+.sti-menu li a h5{
+	color:#000;
+	font-family:andy; 
+	font-size:20px;
+        
+	font-weight:bold;
+	position:absolute;
+	padding:10px;
+	top:110px;
+	left:0px;
+	text-shadow:none;
+}
+
+.sti-menu li a h3{
+	font-family:andy; 
+	font-size:20px;
+	font-weight:bold;
+       
+	color:#000;
+	text-align:center;
+	position:absolute;
+	top:200px;
+	left:10px;
+	
+	padding:10px;
+}
+.sti-menu li a h4{
+	font-family: Baskerville; 
+	font-size:20px;
+	font-weight:bold;
+	color: #000;
+	text-align:center;
+	position:absolute;
+	top:275px;
+	left:20px;
+	padding:10px;
+}
+
+.sti-icon{
+	width:100px;
+	height:100px;
+	position:absolute;
+	background-position:top left;
+	background-repeat:no-repeat;
+	background-color:transparent;
+	left:50px;
+	top:30px;
+}
